@@ -36,6 +36,8 @@
 </head>
 <body>
 
+    
+
     <!-- Preloader Start -->
 	<div class="preloader">
 		<div class="loading-container">
@@ -45,68 +47,78 @@
 	</div>
 	<!-- Preloader End -->
 
-    <!-- Topbar Section Start -->
-    <div class="topbar">
-        <div class="container">
-            <div class="row align-items-center">
+<!-- Topbar Section Start -->
+<div class="topbar">
+    <div class="container">
+        <div class="row align-items-center">
 
-                <div class="col-md-4">
-                    <div class="topbar-info-text">
-                        <p style="font-family: emoji;">Fabtech Education Society’s <br>
-Fabtech Technical Campus College of Engineering & Research</p>
-                    </div>
-                </div>
+            <div class="col-md-1 col-2">
+                <div class="topbar-info-text d-flex align-items-center">
 
-                <div class="col-md-6">
-                    <div class="topbar-info-text">
-                        <p style="font-family: emoji;">An Autonomous Institute <br>
-Affiliated to Dr.Babasaheb Ambedkar Technological University(BATU), Lonere. <br>
-Approved by AICTE, New Delhi, Recognised by Govt.Of Maharashtra, DTE Mumbai. <br>
-Accredited by NAAC, Bangalore, ISO 9001:2005 Certified</p>
-                    </div>
-                </div>
+                    <!-- Logo Start -->
+                    <a class="navbar-brand me-2" href="index.html">
+                        <img src="images/FTC-images/FTC-logo.png" alt="Logo" width="70px">
+                    </a>
+                    <!-- Logo End -->
 
-                <div class="col-md-2">
-                    <div class="topbar-info-text">
-                        <!-- Header Btn Start -->
-                        <div class="header-btn">
-                            <h6 class="btn btn-secondary" style="font-size: 15px;">INSTITUTION CODE 6756</h6>
-                        </div>
-                        <!-- Header Btn End -->
-                    </div>
                 </div>
-                
-                
             </div>
+
+            <div class="col-md-4 col-10">
+                <div class="topbar-info-text d-flex align-items-center">
+
+                    <div>
+                        <p>Fabtech Education Society’s <br>
+                            Fabtech Technical Campus College of Engineering & Research</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="topbar-info-text">
+                    <p>An Autonomous Institute <br>
+                        Affiliated to Dr.Babasaheb Ambedkar Technological University(BATU), Lonere. <br>
+                        Approved by AICTE, New Delhi, Recognised by Govt.Of Maharashtra, DTE Mumbai. <br>
+                        Accredited by NAAC, Bangalore, ISO 9001:2005 Certified</p>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <div class="topbar-info-text">
+                    <!-- Header Btn Start -->
+                    <div class="header-btn">
+                        <h6 class="btn btn-secondary" style="font-size: 15px;">INSTITUTION CODE 6756</h6>
+                    </div>
+                    <!-- Header Btn End -->
+                </div>
+            </div>
+
         </div>
     </div>
-    <!-- Topbar Section End -->
+</div>
+<!-- Topbar Section End -->
+
+
 
     <!-- Header Start -->
 	<header class="main-header">
 		<div class="header-sticky">
 			<nav class="navbar navbar-expand-lg">
 				<div class="container">
-					<!-- Logo Start -->
-					<a class="navbar-brand" href="index-2.html">
-						<img src="images\FTC-images\FTC-logo.png" alt="Logo" height="60PX" width="60PX">
-					</a>
-					<!-- Logo End -->
-
 					<!-- Main Menu Start -->
 					<div class="collapse navbar-collapse main-menu">
                         <div class="nav-menu-wrapper">
                             <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item"><a class="nav-link" href="">HOME</a></li>  
-                                <li class="nav-item submenu"><a class="nav-link" href="#">ABOUT US</a>
+                                <li class="nav-item"><a class="nav-link" href="index.php">HOME</a></li>  
+                                <li class="nav-item submenu"><a class="nav-link" href="about-us.php">ABOUT US</a>
                                     <ul>                                        
-                                        <li class="nav-item"><a class="nav-link" href="#">ABOUT CONFERENCE</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="about-us.php">ABOUT CONFERENCE</a></li>
                                         <li class="nav-item"><a class="nav-link" href="#">ABOUT FTC</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="#">CHIEF PATRONS</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="chiefPatronsAbout.php">CHIEF PATRONS</a></li>
                                     </ul>
                                 </li>                              
-                                <li class="nav-item"><a class="nav-link" href="">KEY NOTE SPEAKERS</a>
-                                <li class="nav-item"><a class="nav-link" href="">COMMITTEE</a> 
+                                <li class="nav-item"><a class="nav-link" href="KeyNoteSpeakers.php">KEY NOTE SPEAKERS</a>
+                                <li class="nav-item"><a class="nav-link" href="Committee.php">COMMITTEE</a> 
                                 <li class="nav-item submenu"><a class="nav-link" href="#">FOR AUTHERS</a>
                                     <ul>                                        
                                         <li class="nav-item"><a class="nav-link" href="#">CALL FOR AUTHERS</a></li>
@@ -129,3 +141,94 @@ Accredited by NAAC, Bangalore, ISO 9001:2005 Certified</p>
 		</div>
 	</header>
 	<!-- Header End -->
+  
+    <!-- Hero Section Start -->
+    <div class="hero hero-slider-layout">
+        <div class="swiper">
+            <div class="swiper-wrapper">
+                <!-- Hero Slide Start -->
+                <div class="swiper-slide">
+                    <div class="hero-slide">
+                        <!-- Slider Image Start -->
+                        <div class="hero-slider-image">
+                            <img src="images\FTC-images\slider-2.jpg">
+                        </div>
+                        <!-- Slider Image End -->
+
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-7">
+                                    <!-- Hero Content Start -->
+                                    <div class="hero-content">
+                                        <!-- Section Title Start -->
+                                        <div class="section-title dark-section">
+                                            <h3 class="wow fadeInUp">Fabtech Education Society’s</h3>
+                                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Fabtech Technical Campus College of Engineering & Research</h2>
+                                            <p class="wow fadeInUp" data-wow-delay="0.4s">An Autonomous Institute Affiliated to Dr.Babasaheb Ambedkar Technological University(BATU), Lonere. Approved by AICTE, New Delhi, Recognised by Govt.Of Maharashtra, DTE Mumbai. Accredited by NAAC, Bangalore, ISO 9001:2005 Certified</p>
+                                        </div>
+                                        <!-- Section Title End -->
+                
+                                        <!-- Hero Content Body Start -->
+                                        <div class="hero-content-body wow fadeInUp" data-wow-delay="0.6s">
+                                            <!-- Hero Button Start -->
+                                            <div class="hero-btn">
+                                                <a href="contact.html" class="btn-default btn-highlighted">learn more</a>
+                                            </div>
+                                            <!-- Hero Button End -->
+                                        </div>
+                                        <!-- Hero Content Body End -->
+                                    </div>
+                                    <!-- Hero Content End -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Hero Slide End -->
+
+                  <!-- Hero Slide Start -->
+                <div class="swiper-slide">
+                    <div class="hero-slide">
+                        <!-- Slider Image Start -->
+                        <div class="hero-slider-image">
+                            <img src="images\FTC-images\4.png" alt="">
+                        </div>
+                        <!-- Slider Image End -->
+
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-7">
+                                    <!-- Hero Content Start -->
+                                    <div class="hero-content">
+                                        <!-- Section Title Start -->
+                                       <div class="section-title dark-section">
+                                            <h3 class="wow fadeInUp">Fabtech Education Society’s</h3>
+                                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Fabtech Technical Campus College of Engineering & Research</h2>
+                                            <p class="wow fadeInUp" data-wow-delay="0.4s">An Autonomous Institute Affiliated to Dr.Babasaheb Ambedkar Technological University(BATU), Lonere. Approved by AICTE, New Delhi, Recognised by Govt.Of Maharashtra, DTE Mumbai. Accredited by NAAC, Bangalore, ISO 9001:2005 Certified</p>
+                                        </div>
+                                        <!-- Section Title End -->
+                
+                                        <!-- Hero Content Body Start -->
+                                        <div class="hero-content-body wow fadeInUp" data-wow-delay="0.6s">
+                                            <!-- Hero Button Start -->
+                                            <div class="hero-btn">
+                                                <a href="#" class="btn-default btn-highlighted">learn more</a>
+                                            </div>
+                                            <!-- Hero Button End -->
+                                        </div>
+                                        <!-- Hero Content Body End -->
+                                    </div>
+                                    <!-- Hero Content End -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Hero Slide End -->
+
+              
+            </div>
+            <div class="hero-pagination"></div>
+        </div>
+    </div>
+    <!-- Hero Section End -->

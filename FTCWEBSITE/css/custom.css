@@ -26,6 +26,24 @@ body{
 	color: var(--text-color);
 }
 
+/* custom css by developer  */
+
+.table th {
+  background-color: #003560 !important;
+  color: #fff;
+  font-weight: 600;
+}
+
+.table td, .table th {
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #f8f9fa;
+}
+
+
 ::-webkit-scrollbar-track{
 	background-color: var(--secondary-color);
 	border-left: 1px solid var(--secondary-color);
