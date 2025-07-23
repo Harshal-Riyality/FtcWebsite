@@ -9,8 +9,7 @@
   <div class="container">
     <!-- Section Heading -->
     <div class="text-center mb-5">
-      <h3 class="fw-bold">Our Key Note Speakers</h3>
-      <p class="text-muted">Meet the distinguished personalities joining us</p>
+      <h3 class="fw-bold">Key Note Speakers</h3>
     </div>
 
     <!-- Table Wrapper (Centered) -->

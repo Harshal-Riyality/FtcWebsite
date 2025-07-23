@@ -2544,7 +2544,8 @@ header.main-header .header-sticky.active{
 }
 
 .cta-box{
-	background: linear-gradient(90.15deg, var(--accent-color) 1.15%, var(--accent-secondary-color) 98.84%);
+	/* background: linear-gradient(90.15deg, var(--accent-color) 1.15%, var(--accent-secondary-color) 98.84%); */
+	 background: linear-gradient(90.15deg, #031b4e 1.15%, var(--accent-secondary-color) 98.84%);
 	border-radius: 30px;
 	display: flex;
 	flex-wrap: wrap;

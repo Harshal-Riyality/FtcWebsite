@@ -87,7 +87,7 @@
                 <div class="topbar-info-text">
                     <!-- Header Btn Start -->
                     <div class="header-btn">
-                        <h6 class="btn btn-secondary" style="font-size: 15px;">INSTITUTION CODE 6756</h6>
+                        <h6 class="btn btn-secondary " style="font-size: 15px;background-color:#55CEE3;">INSTITUTION CODE 6756</h6>
                     </div>
                     <!-- Header Btn End -->
                 </div>
@@ -113,21 +113,21 @@
                                 <li class="nav-item submenu"><a class="nav-link" href="about-us.php">ABOUT US</a>
                                     <ul>                                        
                                         <li class="nav-item"><a class="nav-link" href="about-us.php">ABOUT CONFERENCE</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="#">ABOUT FTC</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="about-ftc.php">ABOUT FTC</a></li>
                                         <li class="nav-item"><a class="nav-link" href="chiefPatronsAbout.php">CHIEF PATRONS</a></li>
                                     </ul>
                                 </li>                              
                                 <li class="nav-item"><a class="nav-link" href="KeyNoteSpeakers.php">KEY NOTE SPEAKERS</a>
                                 <li class="nav-item"><a class="nav-link" href="Committee.php">COMMITTEE</a> 
-                                <li class="nav-item submenu"><a class="nav-link" href="#">FOR AUTHERS</a>
+                                <li class="nav-item submenu"><a class="nav-link" href="index.php">FOR AUTHERS</a>
                                     <ul>                                        
-                                        <li class="nav-item"><a class="nav-link" href="#">CALL FOR AUTHERS</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="#">INSTRUCTIONS FOR AUTHERS</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="call-for-papers.php">CALL FOR PAPERS</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="index.php">INSTRUCTIONS FOR AUTHERS</a></li>
                                     </ul>
                                 </li> 
-                                <li class="nav-item"><a class="nav-link" href="">IMPORTANT DATES</a></li>
-                                <li class="nav-item"><a class="nav-link" href="">VENUE</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">CONTACT US</a></li>                         
+                                <li class="nav-item"><a class="nav-link" href="important-dates.php">IMPORTANT DATES</a></li>
+                                <li class="nav-item"><a class="nav-link" href="index.php">VENUE</a></li>
+                                <li class="nav-item"><a class="nav-link" href="index.php">CONTACT US</a></li>                         
                             </ul>
                         </div>
 

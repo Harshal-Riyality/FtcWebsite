@@ -80,7 +80,7 @@
 
                     <!-- Group: Our Patrons -->
                     <tr class="table-primary">
-                      <th colspan="2">Our Patrons</th>
+                      <th colspan="2">Institute Mangement</th>
                     </tr>
                     <tr>
                       <td>Hon. Mr. Bhausaheb Rupnar</td>

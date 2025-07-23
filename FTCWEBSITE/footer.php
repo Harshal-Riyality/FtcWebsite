@@ -31,12 +31,12 @@
                     <div class="footer-links footer-quick-links">
                         <h3>Useful Links</h3>
                         <ul>
-                            <li><a href="index.html">AICTE</a></li>
-                            <li><a href="about.html">DTE</a></li>
-                            <li><a href="services.html">BATU University</a></li>
-                            <li><a href="blog-single.html">Social Welfare</a></li>
-                            <li><a href="blog-single.html">AICTE Feedback</a></li>
-                            <li><a href="blog-single.html">Grievance</a></li>
+                            <li><a href="https://www.aicte.gov.in">AICTE</a></li>
+                            <li><a href="https://dte.maharashtra.gov.in">DTE</a></li>
+                            <li><a href="https://dbatu.ac.in">BATU University</a></li>
+                            <li><a href="https://sjsa.maharashtra.gov.in/en">Social Welfare</a></li>
+                            <li><a href="https://www.aicte.gov.in/feedback/index.php">AICTE Feedback</a></li>
+                            <li><a href="https://www.ftccoe.ac.in/grievance">Grievance</a></li>
 
                         </ul>
                     </div>
@@ -48,12 +48,12 @@
                     <div class="footer-links">
                         <h3>Useful Links</h3>
                         <ul>
-                            <li><a href="service-single.html">MahaDBT</a></li>
-                            <li><a href="service-single.html">Govt of India</a></li>
-                            <li><a href="service-single.html">Govt of Maharashtra</a></li>
-                            <li><a href="service-single.html">National Scholarship Portal</a></li>
-                            <li><a href="service-single.html">NPTEL</a></li>
-                            <li><a href="service-single.html">Certificate Of E Waste Recycling</a></li>
+                            <li><a href="https://mahadbt.maharashtra.gov.in/login/login">MahaDBT</a></li>
+                            <li><a href="https://www.india.gov.in/">Govt of India</a></li>
+                            <li><a href="https://www.maharashtra.gov.in/">Govt of Maharashtra</a></li>
+                            <li><a href="https://scholarships.gov.in/">National Scholarship Portal</a></li>
+                            <li><a href="https://nptel.ac.in/">NPTEL</a></li>
+                            <li><a href="https://www.ftccoe.ac.in/files/CERTIFICATE-OF-E-Recycling.pdf">Certificate Of E Waste Recycling</a></li>
 
                         </ul>
                     </div>
@@ -71,7 +71,7 @@
                         <ul>
                             <li><a href="#">+91 8408 888 657</a></li>
                             <li><a href="#"> info@ftccoe.ac.in </a></li>
-                            <li><a href="#"> www.ftccoe.ac.in</a></li>
+                            <li><a href="https://www.ftccoe.ac.in/"> www.ftccoe.ac.in</a></li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -131,6 +131,6 @@
     <script src="js/wow.min.js"></script>
     <!-- Main Custom js file -->
     <script src="js/function.js"></script>
-    <script src="../../demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
+	<script src="../../demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
 </body>
 </html>
